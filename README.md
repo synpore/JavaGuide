@@ -1,5 +1,7 @@
 仓库新增了【备战春招/秋招系列】，希望可以为马上面临春招或者以后需要面试的小老哥助力！拟定一周更新2篇内容。
-> 【强烈推荐！非广告！】阿里云双11褥羊毛活动（10.29-11.12）：https://m.aliyun.com/act/team1111/#/share?params=N.FF7yxCciiM.hf47liqn 。新用 。新用户低至一折购买【1核2GIM1年99元，2年199元，3年298元】【2核4GIM1年545元，2年927元，3年1227元】【2核8G5M3年2070元】，建议购买两核的服务器，1核的服务器CPU使用率会有限制。老用户可以加入我的战队，然后分享自己的链接，可以获得红包和25%的返现，我们的战队目前500多位新人，所以可以排进前100，后面可以瓜分百万现金（按拉新人数瓜分现金，拉的越多分的越多！不要自己重新开战队，后面不能参与瓜分现金）。
+> 腾讯云热门云产品1折起，送13000元续费/升级大礼包：https://cloud.tencent.com/redirect.php?redirect=1034&cps_key=2b96dd3b35e69197e2f3dfb779a6139b&from=console
+>
+> 腾讯云新用户大额代金券：https://cloud.tencent.com/redirect.php?redirect=1025&cps_key=2b96dd3b35e69197e2f3dfb779a6139b&from=console
 
 
 | Ⅰ  | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ | Ⅹ |
@@ -87,13 +89,16 @@
 - ### 分布式相关
     - [分布式学习与面试](https://github.com/Snailclimb/Java_Guide/blob/master/架构/分布式.md)
 
-## :musical_note: 备战春招/秋招系列
+## :musical_note: 面试必备
 
-- ### 面试前的准备
+- ### 备战春招/秋招系列
 
-    - [程序员的简历就该这样写](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/程序员的简历之道.md)
-    - [手把手教你用Markdown写一份高质量的简历](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/手把手教你用Markdown写一份高质量的简历.md)
-    - [初出茅庐的程序员该如何准备面试？](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/interviewPrepare.md)
+    - [【备战春招/秋招系列1】程序员的简历就该这样写](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/程序员的简历之道.md)
+        - [手把手教你用Markdown写一份高质量的简历](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/手把手教你用Markdown写一份高质量的简历.md)
+    - [【备战春招/秋招系列2】初出茅庐的程序员该如何准备面试？](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/interviewPrepare.md)
+    - [【备战春招/秋招系列3】Java程序员必备书单](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/books.md)   
+    - [ 【备战春招/秋招系列4】美团面经总结基础篇 （附详解答案）](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/美团-基础篇.md)
+    - [ 【备战春招/秋招系列5】美团面经总结进阶篇 （附详解答案）](https://github.com/Snailclimb/Java-Guide/blob/master/面试必备/美团-进阶篇.md)  
 
 - ### 最最最常见的Java面试题总结
    这里会分享一些出现频率极其极其高的面试题，初定周更一篇，什么时候更完什么时候停止。
@@ -106,8 +111,6 @@
     
 ## :art: 其他  
 
-- ### 个人书单推荐
-    - [个人阅读书籍清单](https://github.com/Snailclimb/Java-Guide/blob/master/其他/个人阅读书籍清单.md)  
 
 - ### 技术方向选择
     - [选择技术方向都要考虑哪些因素](https://github.com/Snailclimb/Java-Guide/blob/master/其他/选择技术方向都要考虑哪些因素.md) 
